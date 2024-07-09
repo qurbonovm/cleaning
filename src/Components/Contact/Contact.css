@@ -1,0 +1,138 @@
+.contact_start {
+    width: 100%;
+    background-color: #F7F9FC;
+    display: flex;
+}
+.contact_left {
+    margin-left: 110px;
+    margin-top: 112px;
+}
+.contact_title {
+    font-family: sans-serif;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 57.98px;
+    text-align: left;
+    color: #211F54;
+}
+.contact_text {
+    font-family: Roboto;
+    font-size: 21px;
+    font-weight: 400;
+    line-height: 30.01px;
+    text-align: left;
+    color: #6E7191;
+    width: 450px;
+    margin-top: 32px;
+}
+.contacts {
+    display: flex;
+}
+.contact_one {
+    width: 60px;
+    height: 60px;
+    border : 1px solid rgb(202, 212, 223);
+    border-radius: 50%;
+    text-align: center;
+    padding-top: 10px;
+    margin-top: 33px;
+}
+.contact_title2 {
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 18px;
+    text-align: left;
+    color: #6E7191;
+    margin-top: 33px;
+    margin-left: 20px;
+}
+.contact_number {
+    font-family: sans-serif;
+    font-size: 28px;
+    font-weight: 700;
+    line-height: 36.01px;
+    text-align: left;
+    color: #211F54;
+    margin-left: 20px;
+}
+.contact_title3 {
+    font-family: sans-serif;
+    font-size: 28px;
+    font-weight: 700;
+    line-height: 36.01px;
+    text-align: left;
+    color: #211F54;
+    margin-top: 86px;   
+}
+.contact_text2 {
+    font-family: Roboto;
+    font-size: 21px;
+    font-weight: 400;
+    line-height: 30.01px;
+    text-align: left;
+    color: #6E7191;
+    margin-top: 9px;
+    width: 445px;
+}
+.contact_btn {
+    width: 256.79px;
+    height: 73px;
+    background-color: white;
+    margin-top: 30px;
+    border-radius: 10px;
+    border: none;
+    color: #211F54;
+    font-family: sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 20px;
+    text-align: center;    
+}
+.contact_right {
+    width: 600px;
+    height: 800px;
+    background-color: white;
+    border-radius: 10px; 
+}
+.contactRow {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+    margin-top: 127px;
+}
+.tittle {
+    font-family: Roboto;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30.01px;
+    text-align: left;
+    color: #211F54; 
+}
+.cont_btn {
+    width: 259px;
+    height: 72px;
+    top: 42.44px;
+    left: -0.39px;
+    gap: 0px;
+    border-radius: 16px;
+    border: 1px solid rgb(203, 211, 219);
+}
+.contact_add {
+    width: 550px;
+    height: 120px;
+    border-radius: 22px;
+    border: 1px solid rgb(191, 203, 214);
+    margin-left: 20px;  
+}
+.contact_btn2 {
+    width: 219px;
+    height: 72px;
+    border-radius: 14px;
+    border: none;
+    background-color: #0075FF;
+    margin-left: 20px;
+    margin-top: 50px;  
+    color: white;
+}
